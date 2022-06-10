@@ -1,0 +1,52 @@
+#include <Wire.h>
+int cmd_dat = 0;
+int ledPin = 7; // LED引脚
+#define SLAVE_ADDRESS 0x12 // 从机地址
+#define CMD_LED_OFF 0 // LED关命令
+#define CMD_LED_ON 1 // LED开命令
+
+void setup() {
+  // 设置LED引脚为输出
+  pinMode (ledPin , OUTPUT);
+  // 开始I2C总线，设置为从机模式
+  Wire.begin(SLAVE_ADDRESS); 
+  // 设置数据接收回调函数
+  Wire.onReceive(receiveEvent);
+  // 设置数据请求回调函数
+  Wire.onRequest(requestEvent);
+  // 初始化串口
+  Serial.begin(9600);
+}
+void receiveEvent(int bytes) {
+  cmd_dat = Wire.read();    // 读取数据
+}
+
+void requestEvent()
+{
+  switch (cmd_dat) {
+    case CMD_LED_OFF:
+      Serial.println("request led off");
+      Wire.write("led off",SLAVE_ADDRESS);
+      break;
+    case CMD_LED_ON:
+     Wire.write("led on",SLAVE_ADDRESS);
+      Serial.println("request led off");
+      break;
+    default:
+      Wire.write("nothing",SLAVE_ADDRESS);
+  }
+}
+
+void loop() {
+  if (cmd_dat == CMD_LED_OFF) {
+    Serial.println("led off");
+    digitalWrite(ledPin,LOW);
+    cmd_dat = -1;
+  }
+  if (cmd_dat == CMD_LED_ON) {
+    Serial.println("led on");
+    digitalWrite(ledPin,HIGH);
+    cmd_dat = -1;
+  }
+  
+}

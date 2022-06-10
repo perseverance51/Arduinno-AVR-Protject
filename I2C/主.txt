@@ -1,0 +1,48 @@
+#include <Wire.h>
+
+#define SLAVE_ADDRESS 0x12 // 从机地址
+#define DATA_SIZE 8 // 数据缓冲大小
+
+#define CMD_LED_OFF 0 // LED关命令
+#define CMD_LED_ON 1 // LED开命令
+
+void setup() {
+  // 启动为主机模式
+  Wire.begin(); 
+  Serial.begin(9600);
+}
+void loop() {
+  // 向从机发送数据
+  Wire.beginTransmission(SLAVE_ADDRESS);
+  Wire.write(CMD_LED_OFF);             
+  Wire.endTransmission();  
+  
+  Serial.println("send led off cmd");
+  // 向从机请求数据
+  Wire.beginTransmission(SLAVE_ADDRESS);
+  Wire.requestFrom(SLAVE_ADDRESS, DATA_SIZE);
+  if (Wire.available()) {
+    Serial.print("Data returned: ");
+    while (Wire.available()) Serial.print((char) Wire.read());
+    Serial.println();
+  }
+  Wire.endTransmission();
+  
+  delay(500);
+  Wire.beginTransmission(SLAVE_ADDRESS);
+  Wire.write(CMD_LED_ON);
+  Wire.endTransmission();   
+  Serial.println("send led on cmd");
+  
+  // 向从机发送数据
+  Wire.beginTransmission(SLAVE_ADDRESS);
+  Wire.requestFrom(SLAVE_ADDRESS, DATA_SIZE);
+  if (Wire.available()) {
+    Serial.print("Data returned: ");
+    while (Wire.available()) Serial.print((char) Wire.read());
+    Serial.println();
+  }
+  Wire.endTransmission();
+  
+  delay(500);
+}

@@ -1,0 +1,2157 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+                              ../Obj/mega644_ssd1306SPI/main.o (__umulhisi3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+                              ../Obj/mega644_ssd1306SPI/main.o (__usmulhisi3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+                              ../Obj/mega644_ssd1306SPI/main.o (__muluhisi3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+                              ../Obj/mega644_ssd1306SPI/ReadCapacity.o (__mulshisi3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+                              ../Obj/mega644_ssd1306SPI/ReadADC.o (__mulsi3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+                              ../Obj/mega644_ssd1306SPI/lcd-draw.o (__udivmodqi4)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                              ../Obj/mega644_ssd1306SPI/RefVoltage.o (__udivmodhi4)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+                              ../Obj/mega644_ssd1306SPI/function_menu.o (__divmodhi4)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+                              ../Obj/mega644_ssd1306SPI/DisplayValue.o (__udivmodsi4)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+                              ../Obj/mega644_ssd1306SPI/main.o (__divmodsi4)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+                              ../Obj/mega644_ssd1306SPI/GetFrequency.o (__udivdi3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+                              ../Obj/mega644_ssd1306SPI/GetFrequency.o (__muldi3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o) (__udivmod64)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+                              ../Obj/mega644_ssd1306SPI/lcd-routines.o (__prologue_saves__)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+                              ../Obj/mega644_ssd1306SPI/lcd-routines.o (__epilogue_restores__)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o (exit)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+                              ../Obj/mega644_ssd1306SPI/lcd-routines.o (__tablejump2__)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                              ../Obj/mega644_ssd1306SPI/lcd-routines.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                              ../Obj/mega644_ssd1306SPI/DisplayValue.o (ultoa)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                              ../Obj/mega644_ssd1306SPI/i2lcd.o (utoa)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_byte_atmega644p.o)
+                              ../Obj/mega644_ssd1306SPI/lcd-routines.o (__eerd_byte_m644p)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_word_atmega644p.o)
+                              ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o (__eerd_word_m644p)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_byte_atmega644p.o)
+                              ../Obj/mega644_ssd1306SPI/main.o (__eewr_byte_m644p)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_word_atmega644p.o)
+                              ../Obj/mega644_ssd1306SPI/main.o (__eewr_word_m644p)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o) (strrev)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_block_atmega644p.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_word_atmega644p.o) (__eerd_blraw_m644p)
+
+Allocating common symbols
+Common symbol       size              file
+
+diode_sequence      0x1               ../Obj/mega644_ssd1306SPI/main.o
+ext_freq            0x4               ../Obj/mega644_ssd1306SPI/main.o
+display_time        0x2               ../Obj/mega644_ssd1306SPI/main.o
+rotary              0x7               ../Obj/mega644_ssd1306SPI/main.o
+lc_fx               0x4               ../Obj/mega644_ssd1306SPI/sampling_lc.o
+resis680mi          0x2               ../Obj/mega644_ssd1306SPI/main.o
+icon_yy             0x1               ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ref_mv_offs         0x2               ../Obj/mega644_ssd1306SPI/main.o
+NumOfDiodes         0x1               ../Obj/mega644_ssd1306SPI/main.o
+PartMode            0x1               ../Obj/mega644_ssd1306SPI/main.o
+PartFound           0x1               ../Obj/mega644_ssd1306SPI/main.o
+resis680pl          0x2               ../Obj/mega644_ssd1306SPI/main.o
+tmpval              0x1               ../Obj/mega644_ssd1306SPI/main.o
+last_text_column    0x1               ../Obj/mega644_ssd1306SPI/lcd-routines.o
+adc_vcc_reference   0x2               ../Obj/mega644_ssd1306SPI/main.o
+inductor_lpre       0x1               ../Obj/mega644_ssd1306SPI/main.o
+mess_count          0x1               ../Obj/mega644_ssd1306SPI/main.o
+last_text_line      0x1               ../Obj/mega644_ssd1306SPI/lcd-routines.o
+outval              0xa               ../Obj/mega644_ssd1306SPI/main.o
+ADCconfig           0x6               ../Obj/mega644_ssd1306SPI/main.o
+lc_cpartmp          0x2               ../Obj/mega644_ssd1306SPI/sampling_lc.o
+pin_rpl             0x2               ../Obj/mega644_ssd1306SPI/main.o
+ref_mv              0x2               ../Obj/mega644_ssd1306SPI/main.o
+DC_Pwr_mode         0x1               ../Obj/mega644_ssd1306SPI/main.o
+tmpval2             0x1               ../Obj/mega644_ssd1306SPI/main.o
+UnCalibrated        0x1               ../Obj/mega644_ssd1306SPI/main.o
+pin_rmi             0x2               ../Obj/mega644_ssd1306SPI/main.o
+WithReference       0x1               ../Obj/mega644_ssd1306SPI/main.o
+_lcd_column         0x1               ../Obj/mega644_ssd1306SPI/main.o
+_trans              0x2               ../Obj/mega644_ssd1306SPI/main.o
+lc_qx               0x2               ../Obj/mega644_ssd1306SPI/sampling_lc.o
+last_line_used      0x1               ../Obj/mega644_ssd1306SPI/main.o
+sumi                0x2               ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+_page               0x1               ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ntrans              0x10              ../Obj/mega644_ssd1306SPI/main.o
+empty_count         0x1               ../Obj/mega644_ssd1306SPI/main.o
+pin_combination     0x1               ../Obj/mega644_ssd1306SPI/main.o
+ovcnt16             0x2               ../Obj/mega644_ssd1306SPI/main.o
+cell_mv             0x6               ../Obj/mega644_ssd1306SPI/main.o
+ResistorChecked     0x3               ../Obj/mega644_ssd1306SPI/main.o
+ResistorList        0x3               ../Obj/mega644_ssd1306SPI/main.o
+ptrans              0x10              ../Obj/mega644_ssd1306SPI/main.o
+pinchange_max       0x2               ../Obj/mega644_ssd1306SPI/main.o
+pinchange_count     0x2               ../Obj/mega644_ssd1306SPI/main.o
+adc_internal_reference
+                    0x2               ../Obj/mega644_ssd1306SPI/main.o
+ResistorsFound      0x1               ../Obj/mega644_ssd1306SPI/main.o
+rotary_switch_present
+                    0x1               ../Obj/mega644_ssd1306SPI/main.o
+unfinished          0x1               ../Obj/mega644_ssd1306SPI/main.o
+RHmultip            0x2               ../Obj/mega644_ssd1306SPI/main.o
+cap                 0x14              ../Obj/mega644_ssd1306SPI/main.o
+load_diff           0x2               ../Obj/mega644_ssd1306SPI/main.o
+diodes              0x18              ../Obj/mega644_ssd1306SPI/main.o
+inductor_lx         0x4               ../Obj/mega644_ssd1306SPI/main.o
+_xpos               0x1               ../Obj/mega644_ssd1306SPI/lcd-routines.o
+sumq                0x2               ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+lcd_text_line       0x1               ../Obj/mega644_ssd1306SPI/main.o
+icon_xx             0x1               ../Obj/mega644_ssd1306SPI/lcd-routines.o
+lc_lx               0x4               ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ResistorVal         0xc               ../Obj/mega644_ssd1306SPI/main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .text.lcd_write_word
+                0x00000000       0x18 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .text.lcd_fix_customchar
+                0x00000000        0x2 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/i2lcd.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/i2lcd.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/PinLayout.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/PinLayout.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/RvalOut.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/RvalOut.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/swuart.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/swuart.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/wait1000ms.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/wait1000ms.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadADC.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadADC.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/RefVoltage.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/RefVoltage.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/get_log.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/get_log.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/main.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/main.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.bmp_inductor_data
+                0x00000000       0x12 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.MinCap_str
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.CyrillicMuIcon
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.CyrillicOmegaIcon
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.ResIcon3
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.ResIcon2
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.ResIcon1
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.DiodeIcon2
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.DiodeIcon1
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.CapIcon
+                0x00000000        0x8 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.FatTP2_str
+                0x00000000        0x6 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.T50HZ
+                0x00000000        0x6 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.Cap_str
+                0x00000000        0x3 ../Obj/mega644_ssd1306SPI/main.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetESR.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetESR.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/samplingADC.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/samplingADC.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/samplingADC.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .text          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .data          0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .bss           0x00000000        0x0 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_byte_atmega644p.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_byte_atmega644p.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_byte_atmega644p.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_word_atmega644p.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_word_atmega644p.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_word_atmega644p.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_byte_atmega644p.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_byte_atmega644p.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_byte_atmega644p.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_word_atmega644p.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_word_atmega644p.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_word_atmega644p.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_block_atmega644p.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_block_atmega644p.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_block_atmega644p.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+LOAD ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+LOAD ../Obj/mega644_ssd1306SPI/lcd-routines.o
+LOAD ../Obj/mega644_ssd1306SPI/i2lcd.o
+LOAD ../Obj/mega644_ssd1306SPI/PinLayout.o
+LOAD ../Obj/mega644_ssd1306SPI/RvalOut.o
+LOAD ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+LOAD ../Obj/mega644_ssd1306SPI/DisplayValue.o
+LOAD ../Obj/mega644_ssd1306SPI/lcd-draw.o
+LOAD ../Obj/mega644_ssd1306SPI/swuart.o
+LOAD ../Obj/mega644_ssd1306SPI/wait1000ms.o
+LOAD ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+LOAD ../Obj/mega644_ssd1306SPI/ReadADC.o
+LOAD ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+LOAD ../Obj/mega644_ssd1306SPI/RefVoltage.o
+LOAD ../Obj/mega644_ssd1306SPI/get_log.o
+LOAD ../Obj/mega644_ssd1306SPI/main.o
+LOAD ../Obj/mega644_ssd1306SPI/Battery_check.o
+LOAD ../Obj/mega644_ssd1306SPI/CheckPins.o
+LOAD ../Obj/mega644_ssd1306SPI/GetResistance.o
+LOAD ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+LOAD ../Obj/mega644_ssd1306SPI/EntladePins.o
+LOAD ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+LOAD ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+LOAD ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+LOAD ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+LOAD ../Obj/mega644_ssd1306SPI/ReadInductance.o
+LOAD ../Obj/mega644_ssd1306SPI/GetESR.o
+LOAD ../Obj/mega644_ssd1306SPI/GetVloss.o
+LOAD ../Obj/mega644_ssd1306SPI/GetFrequency.o
+LOAD ../Obj/mega644_ssd1306SPI/function_menu.o
+LOAD ../Obj/mega644_ssd1306SPI/message_key_released.o
+LOAD ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+LOAD ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+LOAD ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+LOAD ../Obj/mega644_ssd1306SPI/ShowData.o
+LOAD ../Obj/mega644_ssd1306SPI/CheckUJT.o
+LOAD ../Obj/mega644_ssd1306SPI/EE_check_init.o
+LOAD ../Obj/mega644_ssd1306SPI/samplingADC.o
+LOAD ../Obj/mega644_ssd1306SPI/sampling_cap.o
+LOAD ../Obj/mega644_ssd1306SPI/sampling_lc.o
+LOAD ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+LOAD /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x8dde
+ *(.vectors)
+ .vectors       0x00000000       0x7c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.lcd_data
+                0x0000007c       0x14 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .progmem.gcc   0x00000090      0x226 ../Obj/mega644_ssd1306SPI/samplingADC.o
+                0x000000ce                samplingADC
+                0x000000ce                samplingADC_freqgen_sck
+                0x000000ce                samplingADC_freqgen
+ *(.progmem*)
+ .progmem.data.bmp_number
+                0x000002b6        0x6 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .progmem.data.bmp_vakdiode
+                0x000002bc       0x20 ../Obj/mega644_ssd1306SPI/main.o
+                0x000002bc                bmp_vakdiode
+ .progmem.data.bmp_three_data
+                0x000002dc        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x000002dc                bmp_three_data
+ .progmem.data.bmp_two_data
+                0x000002e5        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x000002e5                bmp_two_data
+ .progmem.data.bmp_one_data
+                0x000002ee        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x000002ee                bmp_one_data
+ .progmem.data.bmp_pnp
+                0x000002f7        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x000002f7                bmp_pnp
+ .progmem.data.bmp_p_jfet
+                0x00000300        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000300                bmp_p_jfet
+ .progmem.data.bmp_p_d_mos
+                0x00000307       0x12 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000307                bmp_p_d_mos
+ .progmem.data.bmp_n_d_mos
+                0x00000319        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000319                bmp_n_d_mos
+ .progmem.data.bmp_p_e_mos
+                0x0000031f        0xa ../Obj/mega644_ssd1306SPI/main.o
+                0x0000031f                bmp_p_e_mos
+ .progmem.data.bmp_p_d_igbt
+                0x00000329       0x24 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000329                bmp_p_d_igbt
+ .progmem.data.bmp_n_d_igbt
+                0x0000034d        0xc ../Obj/mega644_ssd1306SPI/main.o
+                0x0000034d                bmp_n_d_igbt
+ .progmem.data.bmp_p_e_igbt
+                0x00000359       0x18 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000359                bmp_p_e_igbt
+ .progmem.data.cap_for_l_meas_str
+                0x00000371       0x10 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000371                cap_for_l_meas_str
+ .progmem.data.REF_R_str
+                0x00000381        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000381                REF_R_str
+ .progmem.data.REF_C_str
+                0x00000388        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000388                REF_C_str
+ .progmem.data.PrefixTab
+                0x0000038f        0x8 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000038f                PrefixTab
+ .progmem.data.PinRLRHADCtab
+                0x00000397        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000397                PinRLRHADCtab
+ .progmem.data.RDS_str
+                0x0000039d        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000039d                RDS_str
+ .progmem.data.CMETER_13_str
+                0x000003a2        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003a2                CMETER_13_str
+ .progmem.data.CAP_13_str
+                0x000003a6        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003a6                CAP_13_str
+ .progmem.data.RESIS_13_str
+                0x000003ad        0xb ../Obj/mega644_ssd1306SPI/main.o
+                0x000003ad                RESIS_13_str
+ .progmem.data.C_ESR_str
+                0x000003b8        0xc ../Obj/mega644_ssd1306SPI/main.o
+                0x000003b8                C_ESR_str
+ .progmem.data.C0samp_str
+                0x000003c4        0x8 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003c4                C0samp_str
+ .progmem.data.C0_str
+                0x000003cc        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003cc                C0_str
+ .progmem.data.RILO_str
+                0x000003d0        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003d0                RILO_str
+ .progmem.data.RIHI_str
+                0x000003d7        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003d7                RIHI_str
+ .progmem.data.R0_str
+                0x000003de        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003de                R0_str
+ .progmem.data.RHRL_str
+                0x000003e2        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x000003e2                RHRL_str
+ .progmem.data.RHRH_str
+                0x000003e8        0xe ../Obj/mega644_ssd1306SPI/main.o
+                0x000003e8                RHRH_str
+ .progmem.data.RLRL_str
+                0x000003f6        0xe ../Obj/mega644_ssd1306SPI/main.o
+                0x000003f6                RLRL_str
+ .progmem.data.RH1H_str
+                0x00000404        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000404                RH1H_str
+ .progmem.data.RH1L_str
+                0x00000408        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000408                RH1L_str
+ .progmem.data.RHfakt_str
+                0x0000040c        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000040c                RHfakt_str
+ .progmem.data.URef_str
+                0x00000411        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000411                URef_str
+ .progmem.data.ICEs_str
+                0x00000416        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000416                ICEs_str
+ .progmem.data.ICE0_str
+                0x0000041c        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000041c                ICE0_str
+ .progmem.data.VERSION_str
+                0x00000422        0xe ../Obj/mega644_ssd1306SPI/main.o
+                0x00000422                VERSION_str
+ .progmem.data.Inductor_str
+                0x00000430        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000430                Inductor_str
+ .progmem.data.Resistor_str
+                0x00000435        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000435                Resistor_str
+ .progmem.data.Dioden
+                0x0000043a        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000043a                Dioden
+ .progmem.data.zQ_str
+                0x0000043f        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000043f                zQ_str
+ .progmem.data.iF_str
+                0x00000444        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000444                iF_str
+ .progmem.data.AT05volt
+                0x00000449        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000449                AT05volt
+ .progmem.data.KatAn_str
+                0x00000450        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000450                KatAn_str
+ .progmem.data.AnKat_str
+                0x00000454        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000454                AnKat_str
+ .progmem.data.HelpCalibration_str
+                0x00000458       0x10 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000458                HelpCalibration_str
+ .progmem.data.Vext_str
+                0x00000468        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000468                Vext_str
+ .progmem.data.Ir_str
+                0x0000046e        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000046e                Ir_str
+ .progmem.data.Lis_str
+                0x00000472        0x3 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000472                Lis_str
+ .progmem.data.VLOSS_str
+                0x00000475        0x8 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000475                VLOSS_str
+ .progmem.data.ESR_str
+                0x0000047d        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000047d                ESR_str
+ .progmem.data.VCC_str
+                0x00000483        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000483                VCC_str
+ .progmem.data.Cell_str
+                0x00000488        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000488                Cell_str
+ .progmem.data.CapZeich
+                0x0000048e        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000048e                CapZeich
+ .progmem.data.Vgs_str
+                0x00000492        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000492                Vgs_str
+ .progmem.data.vt_str
+                0x00000497        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000497                vt_str
+ .progmem.data.Uf_str
+                0x0000049c        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000049c                Uf_str
+ .progmem.data.Ube_str
+                0x000004a0        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004a0                Ube_str
+ .progmem.data.N123_str
+                0x000004a5        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004a5                N123_str
+ .progmem.data.Pin_str
+                0x000004ab        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004ab                Pin_str
+ .progmem.data.PNP_str
+                0x000004b0        0x8 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004b0                PNP_str
+ .progmem.data.NPN_str
+                0x000004b8        0x8 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004b8                NPN_str
+ .progmem.data.GateCap_str
+                0x000004c0        0x4 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004c0                GateCap_str
+ .progmem.data.hfe_str
+                0x000004c4        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004c4                hfe_str
+ .progmem.data.igbt_str
+                0x000004c9        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004c9                igbt_str
+ .progmem.data.jfet_str
+                0x000004cf        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004cf                jfet_str
+ .progmem.data.mosfet_str
+                0x000004d4        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004d4                mosfet_str
+ .progmem.data.DC_Pwr_Mode_str
+                0x000004d9        0xc ../Obj/mega644_ssd1306SPI/main.o
+                0x000004d9                DC_Pwr_Mode_str
+ .progmem.data.OK_str
+                0x000004e5        0x3 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004e5                OK_str
+ .progmem.data.Bat_str
+                0x000004e8        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004e8                Bat_str
+ .progmem.data.xtal_str
+                0x000004ee        0xa ../Obj/mega644_ssd1306SPI/main.o
+                0x000004ee                xtal_str
+ .progmem.data.cerres_str
+                0x000004f8       0x10 ../Obj/mega644_ssd1306SPI/main.o
+                0x000004f8                cerres_str
+ .progmem.data.CONTRAST_str
+                0x00000508        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000508                CONTRAST_str
+ .progmem.data.L_CRYSTAL_str
+                0x00000511        0xa ../Obj/mega644_ssd1306SPI/main.o
+                0x00000511                L_CRYSTAL_str
+ .progmem.data.H_CRYSTAL_str
+                0x0000051b        0xa ../Obj/mega644_ssd1306SPI/main.o
+                0x0000051b                H_CRYSTAL_str
+ .progmem.data.HFREQ_str
+                0x00000525       0x11 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000525                HFREQ_str
+ .progmem.data.FREQ_str
+                0x00000536        0xa ../Obj/mega644_ssd1306SPI/main.o
+                0x00000536                FREQ_str
+ .progmem.data.SHORT_PROBES_str
+                0x00000540        0xe ../Obj/mega644_ssd1306SPI/main.o
+                0x00000540                SHORT_PROBES_str
+ .progmem.data.FULLCHECK_str
+                0x0000054e        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000054e                FULLCHECK_str
+ .progmem.data.TURN_str
+                0x00000557        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000557                TURN_str
+ .progmem.data.SetCapCorr_str
+                0x0000055d       0x11 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000055d                SetCapCorr_str
+ .progmem.data.RotaryEncoder_str
+                0x0000056e        0xf ../Obj/mega644_ssd1306SPI/main.o
+                0x0000056e                RotaryEncoder_str
+ .progmem.data.PWM_10bit_str
+                0x0000057d        0xb ../Obj/mega644_ssd1306SPI/main.o
+                0x0000057d                PWM_10bit_str
+ .progmem.data.F_GEN_str
+                0x00000588        0xc ../Obj/mega644_ssd1306SPI/main.o
+                0x00000588                F_GEN_str
+ .progmem.data.OFF_str
+                0x00000594        0xb ../Obj/mega644_ssd1306SPI/main.o
+                0x00000594                OFF_str
+ .progmem.data.SHOW_str
+                0x0000059f        0xa ../Obj/mega644_ssd1306SPI/main.o
+                0x0000059f                SHOW_str
+ .progmem.data.VOLTAGE_str
+                0x000005a9        0x8 ../Obj/mega644_ssd1306SPI/main.o
+                0x000005a9                VOLTAGE_str
+ .progmem.data.TESTER_str
+                0x000005b1        0xb ../Obj/mega644_ssd1306SPI/main.o
+                0x000005b1                TESTER_str
+ .progmem.data.SELECTION_str
+                0x000005bc        0xb ../Obj/mega644_ssd1306SPI/main.o
+                0x000005bc                SELECTION_str
+ .progmem.data.ATE
+                0x000005c7        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x000005c7                ATE
+ .progmem.data.RELPROBE
+                0x000005d0       0x10 ../Obj/mega644_ssd1306SPI/main.o
+                0x000005d0                RELPROBE
+ .progmem.data.SELFTEST
+                0x000005e0       0x10 ../Obj/mega644_ssd1306SPI/main.o
+                0x000005e0                SELFTEST
+ .progmem.data.TestTimedOut
+                0x000005f0        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x000005f0                TestTimedOut
+ .progmem.data.Detected
+                0x000005f9        0xa ../Obj/mega644_ssd1306SPI/main.o
+                0x000005f9                Detected
+ .progmem.data.TestFailed1
+                0x00000603       0x10 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000603                TestFailed1
+ .progmem.data.Unknown
+                0x00000613        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000613                Unknown
+ .progmem.data.Thyristor
+                0x0000061c        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000061c                Thyristor
+ .progmem.data.Triac
+                0x00000625        0x6 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000625                Triac
+ .progmem.data.Bauteil
+                0x0000062b        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000062b                Bauteil
+ .progmem.data.TestFailed2
+                0x00000630        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000630                TestFailed2
+ .progmem.data.BatEmpty
+                0x00000639        0x7 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000639                BatEmpty
+ .progmem.data.BatWeak
+                0x00000640        0x5 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000640                BatWeak
+ .progmem.data.TestRunning
+                0x00000645        0x9 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000645                TestRunning
+ .progmem.data.RHtab
+                0x0000064e       0x12 ../Obj/mega644_ssd1306SPI/main.o
+                0x0000064e                RHtab
+ .progmem.data.LogTab
+                0x00000660       0x66 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000660                LogTab
+ .progmem.data.RLtab
+                0x000006c6       0x5a ../Obj/mega644_ssd1306SPI/main.o
+                0x000006c6                RLtab
+ .progmem.data.bigfont
+                0x00000720      0x2a0 ../Obj/mega644_ssd1306SPI/main.o
+                0x00000720                bigfont
+ .progmem.data.font
+                0x000009c0      0x300 ../Obj/mega644_ssd1306SPI/main.o
+                0x000009c0                font
+ .progmem.data.PUT_str.2606
+                0x00000cc0        0x4 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.UJT_str.2607
+                0x00000cc4        0x4 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.eta_str.2608
+                0x00000cc8        0x6 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.str_Idss.2615
+                0x00000cce        0x6 ../Obj/mega644_ssd1306SPI/main.o
+ .progmem.data.RL_METER_str
+                0x00000cd4       0x10 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                0x00000cd4                RL_METER_str
+ .progmem.data.str_Cm.2681
+                0x00000ce4        0x4 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .progmem.data.str_ser.2682
+                0x00000ce8        0x5 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .progmem.data.str_par.2683
+                0x00000ced        0x5 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+                0x00000cf2                . = ALIGN (0x2)
+                0x00000cf2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000cf2        0x0 linker stubs
+ *(.trampolines*)
+                0x00000cf2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000cf2                __ctors_start = .
+ *(.ctors)
+                0x00000cf2                __ctors_end = .
+                0x00000cf2                __dtors_start = .
+ *(.dtors)
+                0x00000cf2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000cf2        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+                0x00000cf2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000cf2        0xc /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000cfe       0x10 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                0x00000cfe                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000d0e        0x8 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000d16        0x2 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+                0x00000d16                __vector_22
+                0x00000d16                __vector_28
+                0x00000d16                __vector_1
+                0x00000d16                __bad_interrupt
+                0x00000d16                __vector_6
+                0x00000d16                __vector_3
+                0x00000d16                __vector_23
+                0x00000d16                __vector_30
+                0x00000d16                __vector_25
+                0x00000d16                __vector_11
+                0x00000d16                __vector_17
+                0x00000d16                __vector_19
+                0x00000d16                __vector_7
+                0x00000d16                __vector_27
+                0x00000d16                __vector_4
+                0x00000d16                __vector_2
+                0x00000d16                __vector_21
+                0x00000d16                __vector_29
+                0x00000d16                __vector_8
+                0x00000d16                __vector_26
+                0x00000d16                __vector_10
+                0x00000d16                __vector_16
+                0x00000d16                __vector_20
+ .text          0x00000d18       0x78 ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+                0x00000d18                _lcd_hw_write
+ .text          0x00000d90       0x2c ../Obj/mega644_ssd1306SPI/i2lcd.o
+                0x00000d90                i2lcd
+                0x00000da6                u2lcd
+                0x00000db4                i2lcd_space
+                0x00000db8                u2lcd_space
+ .text          0x00000dbc       0xbc ../Obj/mega644_ssd1306SPI/PinLayout.o
+                0x00000dbc                PinLayout
+                0x00000e0a                PinLayoutLine
+                0x00000e64                Rnum2pins
+ .text          0x00000e78       0x4a ../Obj/mega644_ssd1306SPI/RvalOut.o
+                0x00000e78                RvalOut
+ .text          0x00000ec2       0xba ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+                0x00000ec2                mVAusgabe
+                0x00000ede                UfAusgabe
+                0x00000f0a                SerienDiodenAusgabe
+                0x00000f2c                DiodeSymbol_withPins
+                0x00000f44                DiodeSymbol_ApinCpin
+                0x00000f50                DiodeSymbol_ACpin
+                0x00000f60                DiodeSymbol_CpinApin
+                0x00000f6c                DiodeSymbol_CApin
+ .text          0x00000f7c       0x26 ../Obj/mega644_ssd1306SPI/swuart.o
+                0x00000f7c                uart_putc
+ .text          0x00000fa2       0x4c ../Obj/mega644_ssd1306SPI/wait1000ms.o
+                0x00000fa2                wait5s
+                0x00000fa4                wait4s
+                0x00000fa6                wait3s
+                0x00000fa8                wait2s
+                0x00000faa                wait1000ms
+                0x00000faa                wait1s
+                0x00000fac                wait500ms
+                0x00000fae                wait400ms
+                0x00000fb0                wait300ms
+                0x00000fb2                wait200ms
+                0x00000fb4                wait100ms
+                0x00000fb6                wait50ms
+                0x00000fb8                wait40ms
+                0x00000fba                wait30ms
+                0x00000fbc                wait20ms
+                0x00000fbe                wait10ms
+                0x00000fc0                wait5ms
+                0x00000fc4                wait4ms
+                0x00000fc6                wait3ms
+                0x00000fc8                wait2ms
+                0x00000fca                wait1ms
+                0x00000fcc                wait500us
+                0x00000fce                wait400us
+                0x00000fd0                wait300us
+                0x00000fd2                wait200us
+                0x00000fd4                wait100us
+                0x00000fd6                wait50us
+                0x00000fd8                wait40us
+                0x00000fda                wait30us
+                0x00000fdc                wait20us
+                0x00000fde                wait10us
+                0x00000fe0                wait5us
+                0x00000fe2                wait4us
+                0x00000fe4                wait3us
+                0x00000fe6                wait2us
+                0x00000fe8                wait1us
+                0x00000fea                wait500ns
+ .text          0x00000fee       0xfe ../Obj/mega644_ssd1306SPI/ReadADC.o
+                0x00000fee                W20msReadADC
+                0x00000ff6                W10msReadADC
+                0x00000ffe                W5msReadADC
+                0x00001006                ReadADC
+                0x000010c4                abs_diff
+                0x000010d0                vcc_diff
+                0x000010da                unsigned_diff
+ .text          0x000010ec       0xb0 ../Obj/mega644_ssd1306SPI/RefVoltage.o
+                0x000010ec                RefVoltage
+ .text          0x0000119c       0x48 ../Obj/mega644_ssd1306SPI/get_log.o
+                0x0000119c                get_log
+ .text          0x000011e4       0x5e ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+                0x000011e4                GetRLmultip
+ .text          0x00001242      0x348 ../Obj/mega644_ssd1306SPI/GetESR.o
+                0x00001242                GetESR
+                0x0000158a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.lcd_set_cursor
+                0x0000158a       0x1a ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x0000158a                lcd_set_cursor
+ .text.lcd_save_position
+                0x000015a4       0x12 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015a4                lcd_save_position
+ .text.lcd_restore_position
+                0x000015b6        0xa ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015b6                lcd_restore_position
+ .text.lcd_command
+                0x000015c0        0x6 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015c0                lcd_command
+ .text.lcd_powersave
+                0x000015c6        0x8 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015c6                lcd_powersave
+ .text.uart_newline
+                0x000015ce        0x8 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015ce                uart_newline
+ .text.lcd_line4
+                0x000015d6        0xc ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015d6                lcd_line4
+ .text.lcd_line3
+                0x000015e2        0xc ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015e2                lcd_line3
+ .text.lcd_line2
+                0x000015ee        0xc ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015ee                lcd_line2
+ .text.lcd_line1
+                0x000015fa        0xc ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000015fa                lcd_line1
+ .text.lcd_clear
+                0x00001606       0x2e ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x00001606                lcd_clear
+ .text.lcd_init
+                0x00001634       0x6e ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x00001634                lcd_init
+ .text.reverse_byte
+                0x000016a2       0x20 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000016a2                reverse_byte
+ .text.lcd_set_pixels
+                0x000016c2      0x116 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000016c2                lcd_set_pixels
+ .text.lcd_pgm_bitmap
+                0x000017d8       0x16 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000017d8                lcd_pgm_bitmap
+ .text.lcd_data
+                0x000017ee       0x94 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000017ee                lcd_data
+ .text.lcd_pgm_string
+                0x00001882       0x1e ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x00001882                lcd_pgm_string
+ .text.lcd_string
+                0x000018a0       0x16 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018a0                lcd_string
+ .text.lcd_equal
+                0x000018b6        0x4 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018b6                lcd_equal
+ .text.lcd_space
+                0x000018ba        0x4 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018ba                lcd_space
+ .text.lcd_spaces
+                0x000018be       0x22 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018be                lcd_spaces
+ .text.lcd_clear_line
+                0x000018e0        0xa ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018e0                lcd_clear_line
+ .text.lcd_clear_line2
+                0x000018ea        0x6 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018ea                lcd_clear_line2
+ .text.lcd_clear_line1
+                0x000018f0        0x6 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018f0                lcd_clear_line1
+ .text.lcd_next_line
+                0x000018f6       0x44 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000018f6                lcd_next_line
+ .text.lcd_next_line_wait
+                0x0000193a       0x10 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x0000193a                lcd_next_line_wait
+ .text.lcd_testpin
+                0x0000194a        0x4 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x0000194a                lcd_testpin
+ .text.lcd_update_icon_opt
+                0x0000194e       0x30 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x0000194e                lcd_update_icon_opt
+ .text.lcd_update_icon
+                0x0000197e        0x4 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x0000197e                lcd_update_icon
+ .text.lcd_big_icon
+                0x00001982       0x54 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x00001982                lcd_big_icon
+ .text.lcd_show_Cg
+                0x000019d6       0x30 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x000019d6                lcd_show_Cg
+ .text.lcd_show_rds
+                0x00001a06       0x28 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x00001a06                lcd_show_rds
+ .text.DisplayValue
+                0x00001a2e      0x1d6 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+                0x00001a2e                DisplayValue
+ .text.DisplayValue16
+                0x00001c04       0x16 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+                0x00001c04                DisplayValue16
+ .text.Display_mV
+                0x00001c1a       0x1a ../Obj/mega644_ssd1306SPI/DisplayValue.o
+                0x00001c1a                Display_mV
+ .text.Display_Hz
+                0x00001c34       0x14 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+                0x00001c34                Display_Hz
+ .text.lcd_draw_pin
+                0x00001c48       0x22 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+                0x00001c48                lcd_draw_pin
+ .text.lcd_draw_trans_pins
+                0x00001c6a       0x3e ../Obj/mega644_ssd1306SPI/lcd-draw.o
+                0x00001c6a                lcd_draw_trans_pins
+ .text.ShowIcons
+                0x00001ca8      0x208 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+                0x00001ca8                ShowIcons
+ .text.sleep_5ms
+                0x00001eb0       0x7c ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+                0x00001eb0                sleep_5ms
+ .text.check_rotary
+                0x00001f2c       0x98 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+                0x00001f2c                check_rotary
+ .text.wait_for_key_ms
+                0x00001fc4       0xdc ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+                0x00001fc4                wait_for_key_ms
+ .text.wait_for_key_5s_line2
+                0x000020a0       0x52 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+                0x000020a0                wait_for_key_5s_line2
+ .text.__vector_9
+                0x000020f2        0x2 ../Obj/mega644_ssd1306SPI/main.o
+                0x000020f2                __vector_9
+ .text.__vector_24
+                0x000020f4        0x2 ../Obj/mega644_ssd1306SPI/main.o
+                0x000020f4                __vector_24
+ .text.search_vak_diode
+                0x000020f6       0x5e ../Obj/mega644_ssd1306SPI/main.o
+                0x000020f6                search_vak_diode
+ .text.init_parts
+                0x00002154       0x56 ../Obj/mega644_ssd1306SPI/main.o
+                0x00002154                init_parts
+ .text.switch_tester_off
+                0x000021aa       0x22 ../Obj/mega644_ssd1306SPI/main.o
+                0x000021aa                switch_tester_off
+ .text.ShortedProbes
+                0x000021cc       0x88 ../Obj/mega644_ssd1306SPI/main.o
+                0x000021cc                ShortedProbes
+ .text.AllProbesShorted
+                0x00002254       0x1e ../Obj/mega644_ssd1306SPI/main.o
+                0x00002254                AllProbesShorted
+ .text.AutoCheck
+                0x00002272      0x772 ../Obj/mega644_ssd1306SPI/main.o
+                0x00002272                AutoCheck
+ .text.mark_as_uncalibrated
+                0x000029e4       0x24 ../Obj/mega644_ssd1306SPI/main.o
+                0x000029e4                mark_as_uncalibrated
+ .text.GetIr    0x00002a08       0x8e ../Obj/mega644_ssd1306SPI/main.o
+                0x00002a08                GetIr
+ .text.startup.main
+                0x00002a96      0xc96 ../Obj/mega644_ssd1306SPI/main.o
+                0x00002a96                main
+ .text.Battery_check
+                0x0000372c       0x9c ../Obj/mega644_ssd1306SPI/Battery_check.o
+                0x0000372c                Battery_check
+ .text.expand_FET_quadratic
+                0x000037c8       0x44 ../Obj/mega644_ssd1306SPI/CheckPins.o
+                0x000037c8                expand_FET_quadratic
+ .text.CheckPins
+                0x0000380c      0xe2a ../Obj/mega644_ssd1306SPI/CheckPins.o
+                0x0000380c                CheckPins
+ .text.GetResistance
+                0x00004636      0x41a ../Obj/mega644_ssd1306SPI/GetResistance.o
+                0x00004636                GetResistance
+ .text.ChargePin10ms
+                0x00004a50       0x34 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+                0x00004a50                ChargePin10ms
+ .text.EntladePins
+                0x00004a84      0x118 ../Obj/mega644_ssd1306SPI/EntladePins.o
+                0x00004a84                EntladePins
+ .text.Scale_C_with_vcc
+                0x00004b9c       0x80 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+                0x00004b9c                Scale_C_with_vcc
+ .text.ReadCapacity
+                0x00004c1c      0x59c ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+                0x00004c1c                ReadCapacity
+ .text.__vector_15
+                0x000051b8       0x4c ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+                0x000051b8                __vector_15
+ .text.__vector_12
+                0x00005204       0x44 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+                0x00005204                __vector_12
+ .text.Calibrate_UR
+                0x00005248      0x196 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+                0x00005248                Calibrate_UR
+ .text.show_resis
+                0x000053de      0x16e ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                0x000053de                show_resis
+ .text.show_cap
+                0x0000554c       0xea ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                0x0000554c                show_cap
+ .text.Bat_update
+                0x00005636        0xe ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                0x00005636                Bat_update
+ .text.Pwr_mode_check
+                0x00005644       0x14 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                0x00005644                Pwr_mode_check
+ .text.show_Cap13
+                0x00005658       0xfa ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                0x00005658                show_Cap13
+ .text.show_Resis13
+                0x00005752       0x94 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                0x00005752                show_Resis13
+ .text.ReadInductance
+                0x000057e6      0x458 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+                0x000057e6                ReadInductance
+ .text.GetVloss
+                0x00005c3e      0x156 ../Obj/mega644_ssd1306SPI/GetVloss.o
+                0x00005c3e                GetVloss
+ .text.GetFrequency
+                0x00005d94      0x3f6 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+                0x00005d94                GetFrequency
+ .text.__vector_18
+                0x0000618a       0x4c ../Obj/mega644_ssd1306SPI/GetFrequency.o
+                0x0000618a                __vector_18
+ .text.__vector_13
+                0x000061d6       0x1c ../Obj/mega644_ssd1306SPI/GetFrequency.o
+                0x000061d6                __vector_13
+ .text.__vector_14
+                0x000061f2       0x1c ../Obj/mega644_ssd1306SPI/GetFrequency.o
+                0x000061f2                __vector_14
+ .text.__vector_5
+                0x0000620e       0x58 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+                0x0000620e                __vector_5
+ .text.message2line
+                0x00006266       0xba ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x00006266                message2line
+ .text.show_C_ESR
+                0x00006320       0xc6 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x00006320                show_C_ESR
+ .text.show_vext
+                0x000063e6       0x88 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x000063e6                show_vext
+ .text.make_frequency
+                0x0000646e      0x340 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x0000646e                make_frequency
+ .text.do_10bit_PWM
+                0x000067ae      0x166 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x000067ae                do_10bit_PWM
+ .text.set_contrast
+                0x00006914       0x96 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x00006914                set_contrast
+ .text.set_big_cap_corr
+                0x000069aa       0xb6 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x000069aa                set_big_cap_corr
+ .text.do_menu  0x00006a60       0x78 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x00006a60                do_menu
+ .text.function_menu
+                0x00006ad8      0x102 ../Obj/mega644_ssd1306SPI/function_menu.o
+                0x00006ad8                function_menu
+ .text.message_key_released
+                0x00006bda       0x38 ../Obj/mega644_ssd1306SPI/message_key_released.o
+                0x00006bda                message_key_released
+ .text.ReadBigCap
+                0x00006c12      0x27c ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+                0x00006c12                ReadBigCap
+ .text.CheckRotaryEncoder
+                0x00006e8e      0x2a2 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+                0x00006e8e                CheckRotaryEncoder
+ .text.CalibrationCap
+                0x00007130      0x2da ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+                0x00007130                CalibrationCap
+ .text.ShowData
+                0x0000740a      0x244 ../Obj/mega644_ssd1306SPI/ShowData.o
+                0x0000740a                ShowData
+ .text.CheckUJT
+                0x0000764e      0x17a ../Obj/mega644_ssd1306SPI/CheckUJT.o
+                0x0000764e                CheckUJT
+ .text.EE_check_init
+                0x000077c8       0xec ../Obj/mega644_ssd1306SPI/EE_check_init.o
+                0x000077c8                EE_check_init
+ .text.mylog    0x000078b4       0xb8 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .text.sampling_cap
+                0x0000796c      0x1fc ../Obj/mega644_ssd1306SPI/sampling_cap.o
+                0x0000796c                sampling_cap
+ .text.sampling_cap_calibrate
+                0x00007b68       0xd0 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+                0x00007b68                sampling_cap_calibrate
+ .text.peaksearch
+                0x00007c38      0x250 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .text.sampling_lc
+                0x00007e88      0x2f8 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+                0x00007e88                sampling_lc
+ .text.sampling_lc_calibrate
+                0x00008180       0x8c ../Obj/mega644_ssd1306SPI/sampling_lc.o
+                0x00008180                sampling_lc_calibrate
+ .text.findphase
+                0x0000820c       0x9e ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .text.show_progress
+                0x000082aa        0x6 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .text.findfreqmax.constprop.0
+                0x000082b0       0xf2 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .text.sampling_test_xtal
+                0x000083a2      0x1a6 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+                0x000083a2                sampling_test_xtal
+ .text.sampling_measure_xtal
+                0x00008548      0x48e ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+                0x00008548                sampling_measure_xtal
+ .text.libgcc.mul
+                0x000089d6       0x18 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+                0x000089d6                __umulhisi3
+ .text.libgcc.mul
+                0x000089ee        0xc /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+                0x000089ee                __usmulhisi3
+                0x000089f0                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x000089fa       0x14 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+                0x000089fa                __muluhisi3
+ .text.libgcc.mul
+                0x00008a0e        0xc /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+                0x00008a0e                __mulshisi3
+                0x00008a12                __mulohisi3
+ .text.libgcc.mul
+                0x00008a1a       0x1e /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+                0x00008a1a                __mulsi3
+ .text.libgcc.div
+                0x00008a38       0x18 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+                0x00008a38                __udivmodqi4
+ .text.libgcc.div
+                0x00008a50       0x28 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x00008a50                __udivmodhi4
+ .text.libgcc.div
+                0x00008a78       0x26 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodhi4.o)
+                0x00008a78                __divmodhi4
+                0x00008a78                _div
+ .text.libgcc.div
+                0x00008a9e       0x44 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+                0x00008a9e                __udivmodsi4
+ .text.libgcc.div
+                0x00008ae2       0x36 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+                0x00008ae2                __divmodsi4
+ .text.libgcc.div
+                0x00008b18       0x1a /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivdi3.o)
+                0x00008b18                __umoddi3
+                0x00008b1c                __udivdi3
+                0x00008b1e                __udivdi3_umoddi3
+ .text.libgcc.mul
+                0x00008b32       0xa2 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muldi3.o)
+                0x00008b32                __muldi3
+ .text.libgcc.div
+                0x00008bd4       0xa2 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmod64.o)
+                0x00008bd4                __udivmod64
+ .text.libgcc.prologue
+                0x00008c76       0x38 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+                0x00008c76                __prologue_saves__
+ .text.libgcc.prologue
+                0x00008cae       0x36 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+                0x00008cae                __epilogue_restores__
+ .text.libgcc   0x00008ce4        0xc /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+                0x00008ce4                __tablejump2__
+                0x00008ce8                __tablejump__
+ .text.avr-libc
+                0x00008cf0       0x46 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                0x00008cf0                ultoa
+ .text.avr-libc
+                0x00008d36       0x28 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                0x00008d36                utoa
+ .text.avr-libc
+                0x00008d5e       0x10 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_byte_atmega644p.o)
+                0x00008d5e                __eerd_byte_m644p
+ .text.avr-libc
+                0x00008d6e        0xa /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_word_atmega644p.o)
+                0x00008d6e                __eerd_word_m644p
+ .text.avr-libc
+                0x00008d78       0x1c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_byte_atmega644p.o)
+                0x00008d78                __eewr_byte_m644p
+                0x00008d7a                __eewr_r18_m644p
+ .text.avr-libc
+                0x00008d94        0x6 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_word_atmega644p.o)
+                0x00008d94                __eewr_word_m644p
+ .text.avr-libc
+                0x00008d9a       0x20 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+                0x00008d9a                strrev
+ .text.avr-libc
+                0x00008dba       0x20 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_block_atmega644p.o)
+                0x00008dba                __eerd_block_m644p
+                0x00008dbe                __eerd_blraw_m644p
+                0x00008dda                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00008dda        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                0x00008dda                exit
+                0x00008dda                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00008dda        0x4 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00008dde                _etext = .
+
+.data           0x00800100        0x0 load address 0x00008dde
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800100                . = ALIGN (0x2)
+                0x00800100                _edata = .
+                0x00800100                PROVIDE (__data_end, .)
+
+.bss            0x00800100       0xce
+                0x00800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.wht       0x00800100        0x1 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .bss.dmax      0x00800101        0x2 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ .bss.xtal_cancel
+                0x00800103        0x1 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ *(COMMON)
+ COMMON         0x00800104        0x6 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                0x00800104                icon_yy
+                0x00800105                last_text_column
+                0x00800106                last_text_line
+                0x00800107                _page
+                0x00800108                _xpos
+                0x00800109                icon_xx
+ COMMON         0x0080010a       0xb4 ../Obj/mega644_ssd1306SPI/main.o
+                0x0080010a                diode_sequence
+                0x0080010b                ext_freq
+                0x0080010f                display_time
+                0x00800111                rotary
+                0x00800118                resis680mi
+                0x0080011a                ref_mv_offs
+                0x0080011c                NumOfDiodes
+                0x0080011d                PartMode
+                0x0080011e                PartFound
+                0x0080011f                resis680pl
+                0x00800121                tmpval
+                0x00800122                adc_vcc_reference
+                0x00800124                inductor_lpre
+                0x00800125                mess_count
+                0x00800126                outval
+                0x00800130                ADCconfig
+                0x00800136                pin_rpl
+                0x00800138                ref_mv
+                0x0080013a                DC_Pwr_mode
+                0x0080013b                tmpval2
+                0x0080013c                UnCalibrated
+                0x0080013d                pin_rmi
+                0x0080013f                WithReference
+                0x00800140                _lcd_column
+                0x00800141                _trans
+                0x00800143                last_line_used
+                0x00800144                ntrans
+                0x00800154                empty_count
+                0x00800155                pin_combination
+                0x00800156                ovcnt16
+                0x00800158                cell_mv
+                0x0080015e                ResistorChecked
+                0x00800161                ResistorList
+                0x00800164                ptrans
+                0x00800174                pinchange_max
+                0x00800176                pinchange_count
+                0x00800178                adc_internal_reference
+                0x0080017a                ResistorsFound
+                0x0080017b                rotary_switch_present
+                0x0080017c                unfinished
+                0x0080017d                RHmultip
+                0x0080017f                cap
+                0x00800193                load_diff
+                0x00800195                diodes
+                0x008001ad                inductor_lx
+                0x008001b1                lcd_text_line
+                0x008001b2                ResistorVal
+ COMMON         0x008001be        0xc ../Obj/mega644_ssd1306SPI/sampling_lc.o
+                0x008001be                lc_fx
+                0x008001c2                lc_cpartmp
+                0x008001c4                lc_qx
+                0x008001c6                lc_lx
+ COMMON         0x008001ca        0x4 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+                0x008001ca                sumi
+                0x008001cc                sumq
+                0x008001ce                PROVIDE (__bss_end, .)
+                0x00008dde                __data_load_start = LOADADDR (.data)
+                0x00008dde                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001ce        0x0
+                0x008001ce                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001ce                PROVIDE (__noinit_end, .)
+                0x008001ce                _end = .
+                0x008001ce                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000       0x2e
+ *(.eeprom*)
+ .eeprom        0x00810000       0x2c ../Obj/mega644_ssd1306SPI/main.o
+                0x00810000                EE_Volume_Value
+                0x00810001                EE_ESR_ZEROtab
+                0x00810005                big_cap_corr
+                0x00810006                c_zero_tab2_hi
+                0x00810014                c_zero_tab2_lo
+                0x00810022                c_zero_tab
+                0x00810029                ref_offset
+                0x0081002b                RefDiff
+ .eeprom        0x0081002c        0x2 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+                0x0081002c                lc_cpar_ee
+                0x0081002e                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000      0xdec
+ *(.stab)
+ .stab          0x00000000      0x6cc /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+ .stab          0x000006cc      0x1e0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                0x1ec (size before relaxing)
+ .stab          0x000008ac      0x12c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                                0x138 (size before relaxing)
+ .stab          0x000009d8       0x90 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_byte_atmega644p.o)
+                                 0x9c (size before relaxing)
+ .stab          0x00000a68       0x6c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_word_atmega644p.o)
+                                 0x78 (size before relaxing)
+ .stab          0x00000ad4       0xe4 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_byte_atmega644p.o)
+                                 0xf0 (size before relaxing)
+ .stab          0x00000bb8       0x54 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eewr_word_atmega644p.o)
+                                 0x60 (size before relaxing)
+ .stab          0x00000c0c       0xd8 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+                                 0xe4 (size before relaxing)
+ .stab          0x00000ce4      0x108 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(eerd_block_atmega644p.o)
+                                0x114 (size before relaxing)
+
+.stabstr        0x00000000      0x1d4
+ *(.stabstr)
+ .stabstr       0x00000000      0x1d4 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm644p.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/main.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .comment       0x00000000       0x12 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x798
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+ .debug_aranges
+                0x00000020      0x128 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .debug_aranges
+                0x00000148       0x20 ../Obj/mega644_ssd1306SPI/i2lcd.o
+ .debug_aranges
+                0x00000168       0x20 ../Obj/mega644_ssd1306SPI/PinLayout.o
+ .debug_aranges
+                0x00000188       0x20 ../Obj/mega644_ssd1306SPI/RvalOut.o
+ .debug_aranges
+                0x000001a8       0x20 ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+ .debug_aranges
+                0x000001c8       0x38 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .debug_aranges
+                0x00000200       0x30 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .debug_aranges
+                0x00000230       0x20 ../Obj/mega644_ssd1306SPI/swuart.o
+ .debug_aranges
+                0x00000250       0x20 ../Obj/mega644_ssd1306SPI/wait1000ms.o
+ .debug_aranges
+                0x00000270       0x20 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .debug_aranges
+                0x00000290       0x20 ../Obj/mega644_ssd1306SPI/ReadADC.o
+ .debug_aranges
+                0x000002b0       0x30 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .debug_aranges
+                0x000002e0       0x20 ../Obj/mega644_ssd1306SPI/RefVoltage.o
+ .debug_aranges
+                0x00000300       0x20 ../Obj/mega644_ssd1306SPI/get_log.o
+ .debug_aranges
+                0x00000320       0x70 ../Obj/mega644_ssd1306SPI/main.o
+ .debug_aranges
+                0x00000390       0x20 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .debug_aranges
+                0x000003b0       0x28 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .debug_aranges
+                0x000003d8       0x20 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .debug_aranges
+                0x000003f8       0x20 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .debug_aranges
+                0x00000418       0x20 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .debug_aranges
+                0x00000438       0x38 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .debug_aranges
+                0x00000470       0x20 ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+ .debug_aranges
+                0x00000490       0x20 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .debug_aranges
+                0x000004b0       0x48 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .debug_aranges
+                0x000004f8       0x20 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .debug_aranges
+                0x00000518       0x20 ../Obj/mega644_ssd1306SPI/GetESR.o
+ .debug_aranges
+                0x00000538       0x20 ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .debug_aranges
+                0x00000558       0x40 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .debug_aranges
+                0x00000598       0x60 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .debug_aranges
+                0x000005f8       0x20 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .debug_aranges
+                0x00000618       0x20 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .debug_aranges
+                0x00000638       0x20 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .debug_aranges
+                0x00000658       0x20 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .debug_aranges
+                0x00000678       0x20 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .debug_aranges
+                0x00000698       0x20 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .debug_aranges
+                0x000006b8       0x20 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .debug_aranges
+                0x000006d8       0x20 ../Obj/mega644_ssd1306SPI/samplingADC.o
+ .debug_aranges
+                0x000006f8       0x30 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .debug_aranges
+                0x00000728       0x30 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .debug_aranges
+                0x00000758       0x40 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xeb06
+ *(.debug_info)
+ .debug_info    0x00000000       0x64 ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+ .debug_info    0x00000064     0x11b9 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .debug_info    0x0000121d       0x5d ../Obj/mega644_ssd1306SPI/i2lcd.o
+ .debug_info    0x0000127a       0x61 ../Obj/mega644_ssd1306SPI/PinLayout.o
+ .debug_info    0x000012db       0x5f ../Obj/mega644_ssd1306SPI/RvalOut.o
+ .debug_info    0x0000133a       0x61 ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+ .debug_info    0x0000139b      0x407 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .debug_info    0x000017a2      0xbd3 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .debug_info    0x00002375       0x5e ../Obj/mega644_ssd1306SPI/swuart.o
+ .debug_info    0x000023d3       0x62 ../Obj/mega644_ssd1306SPI/wait1000ms.o
+ .debug_info    0x00002435       0xda ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .debug_info    0x0000250f       0x5f ../Obj/mega644_ssd1306SPI/ReadADC.o
+ .debug_info    0x0000256e      0x327 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .debug_info    0x00002895       0x62 ../Obj/mega644_ssd1306SPI/RefVoltage.o
+ .debug_info    0x000028f7       0x5f ../Obj/mega644_ssd1306SPI/get_log.o
+ .debug_info    0x00002956     0x39e7 ../Obj/mega644_ssd1306SPI/main.o
+ .debug_info    0x0000633d      0x272 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .debug_info    0x000065af     0x1239 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .debug_info    0x000077e8      0x632 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .debug_info    0x00007e1a       0xcc ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .debug_info    0x00007ee6      0x1c2 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .debug_info    0x000080a8      0x5fd ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .debug_info    0x000086a5       0x63 ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+ .debug_info    0x00008708      0x2c9 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .debug_info    0x000089d1      0xc16 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .debug_info    0x000095e7      0x4a5 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .debug_info    0x00009a8c       0x5e ../Obj/mega644_ssd1306SPI/GetESR.o
+ .debug_info    0x00009aea      0x31b ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .debug_info    0x00009e05      0x4c3 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .debug_info    0x0000a2c8      0xf39 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .debug_info    0x0000b201      0x122 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .debug_info    0x0000b323      0x3bc ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .debug_info    0x0000b6df      0x360 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .debug_info    0x0000ba3f      0x2f2 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .debug_info    0x0000bd31      0x78a ../Obj/mega644_ssd1306SPI/ShowData.o
+ .debug_info    0x0000c4bb      0x455 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .debug_info    0x0000c910      0x302 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .debug_info    0x0000cc12       0x63 ../Obj/mega644_ssd1306SPI/samplingADC.o
+ .debug_info    0x0000cc75      0x678 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .debug_info    0x0000d2ed      0x840 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .debug_info    0x0000db2d      0xfd9 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x300f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x14 ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+ .debug_abbrev  0x00000014      0x2c0 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .debug_abbrev  0x000002d4       0x14 ../Obj/mega644_ssd1306SPI/i2lcd.o
+ .debug_abbrev  0x000002e8       0x14 ../Obj/mega644_ssd1306SPI/PinLayout.o
+ .debug_abbrev  0x000002fc       0x14 ../Obj/mega644_ssd1306SPI/RvalOut.o
+ .debug_abbrev  0x00000310       0x14 ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+ .debug_abbrev  0x00000324      0x141 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .debug_abbrev  0x00000465      0x1b3 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .debug_abbrev  0x00000618       0x14 ../Obj/mega644_ssd1306SPI/swuart.o
+ .debug_abbrev  0x0000062c       0x14 ../Obj/mega644_ssd1306SPI/wait1000ms.o
+ .debug_abbrev  0x00000640       0x8d ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .debug_abbrev  0x000006cd       0x14 ../Obj/mega644_ssd1306SPI/ReadADC.o
+ .debug_abbrev  0x000006e1      0x189 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .debug_abbrev  0x0000086a       0x14 ../Obj/mega644_ssd1306SPI/RefVoltage.o
+ .debug_abbrev  0x0000087e       0x14 ../Obj/mega644_ssd1306SPI/get_log.o
+ .debug_abbrev  0x00000892      0x377 ../Obj/mega644_ssd1306SPI/main.o
+ .debug_abbrev  0x00000c09      0x106 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .debug_abbrev  0x00000d0f      0x1fc ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .debug_abbrev  0x00000f0b      0x18a ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .debug_abbrev  0x00001095       0x91 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .debug_abbrev  0x00001126       0xd6 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .debug_abbrev  0x000011fc      0x1e1 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .debug_abbrev  0x000013dd       0x14 ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+ .debug_abbrev  0x000013f1      0x111 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .debug_abbrev  0x00001502      0x242 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .debug_abbrev  0x00001744      0x17f ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .debug_abbrev  0x000018c3       0x14 ../Obj/mega644_ssd1306SPI/GetESR.o
+ .debug_abbrev  0x000018d7      0x15b ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .debug_abbrev  0x00001a32      0x1a4 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .debug_abbrev  0x00001bd6      0x2a2 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .debug_abbrev  0x00001e78       0xd0 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .debug_abbrev  0x00001f48      0x1a8 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .debug_abbrev  0x000020f0      0x129 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .debug_abbrev  0x00002219      0x1a1 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .debug_abbrev  0x000023ba      0x169 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .debug_abbrev  0x00002523      0x1ad ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .debug_abbrev  0x000026d0      0x14f ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .debug_abbrev  0x0000281f       0x14 ../Obj/mega644_ssd1306SPI/samplingADC.o
+ .debug_abbrev  0x00002833      0x1ed ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .debug_abbrev  0x00002a20      0x23d ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .debug_abbrev  0x00002c5d      0x3b2 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+
+.debug_line     0x00000000     0x3e66
+ *(.debug_line)
+ .debug_line    0x00000000       0x7c ../Obj/mega644_ssd1306SPI/lcd_hw_4_bit.o
+ .debug_line    0x0000007c      0x486 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .debug_line    0x00000502       0x4d ../Obj/mega644_ssd1306SPI/i2lcd.o
+ .debug_line    0x0000054f       0x9c ../Obj/mega644_ssd1306SPI/PinLayout.o
+ .debug_line    0x000005eb       0x5b ../Obj/mega644_ssd1306SPI/RvalOut.o
+ .debug_line    0x00000646       0x9f ../Obj/mega644_ssd1306SPI/UfAusgabe.o
+ .debug_line    0x000006e5      0x154 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .debug_line    0x00000839      0x17b ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .debug_line    0x000009b4       0x4c ../Obj/mega644_ssd1306SPI/swuart.o
+ .debug_line    0x00000a00       0x68 ../Obj/mega644_ssd1306SPI/wait1000ms.o
+ .debug_line    0x00000a68       0xa5 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .debug_line    0x00000b0d       0x9d ../Obj/mega644_ssd1306SPI/ReadADC.o
+ .debug_line    0x00000baa      0x178 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .debug_line    0x00000d22       0x83 ../Obj/mega644_ssd1306SPI/RefVoltage.o
+ .debug_line    0x00000da5       0x59 ../Obj/mega644_ssd1306SPI/get_log.o
+ .debug_line    0x00000dfe      0x72a ../Obj/mega644_ssd1306SPI/main.o
+ .debug_line    0x00001528       0xd9 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .debug_line    0x00001601      0x394 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .debug_line    0x00001995      0x153 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .debug_line    0x00001ae8       0x8e ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .debug_line    0x00001b76      0x102 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .debug_line    0x00001c78      0x28e ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .debug_line    0x00001f06       0x6a ../Obj/mega644_ssd1306SPI/GetRLmultip.o
+ .debug_line    0x00001f70       0xdd ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .debug_line    0x0000204d      0x223 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .debug_line    0x00002270      0x1a5 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .debug_line    0x00002415      0x1b0 ../Obj/mega644_ssd1306SPI/GetESR.o
+ .debug_line    0x000025c5      0x118 ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .debug_line    0x000026dd      0x1d8 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .debug_line    0x000028b5      0x48f ../Obj/mega644_ssd1306SPI/function_menu.o
+ .debug_line    0x00002d44       0xaa ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .debug_line    0x00002dee      0x165 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .debug_line    0x00002f53      0x1ab ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .debug_line    0x000030fe      0x170 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .debug_line    0x0000326e      0x153 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .debug_line    0x000033c1      0x10d ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .debug_line    0x000034ce      0x11c ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .debug_line    0x000035ea      0x132 ../Obj/mega644_ssd1306SPI/samplingADC.o
+ .debug_line    0x0000371c      0x1c0 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .debug_line    0x000038dc      0x298 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .debug_line    0x00003b74      0x2f2 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+
+.debug_frame    0x00000000      0xf74
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2d4 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .debug_frame   0x000002d4       0x94 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .debug_frame   0x00000368       0x60 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .debug_frame   0x000003c8       0x34 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .debug_frame   0x000003fc       0x64 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .debug_frame   0x00000460      0x148 ../Obj/mega644_ssd1306SPI/main.o
+ .debug_frame   0x000005a8       0x38 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .debug_frame   0x000005e0       0x5c ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .debug_frame   0x0000063c       0x48 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .debug_frame   0x00000684       0x2c ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .debug_frame   0x000006b0       0x3c ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .debug_frame   0x000006ec       0xb4 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .debug_frame   0x000007a0       0x38 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .debug_frame   0x000007d8       0xc0 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .debug_frame   0x00000898       0x4c ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .debug_frame   0x000008e4       0x3c ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .debug_frame   0x00000920       0xe8 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .debug_frame   0x00000a08      0x150 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .debug_frame   0x00000b58       0x30 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .debug_frame   0x00000b88       0x44 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .debug_frame   0x00000bcc       0x38 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .debug_frame   0x00000c04       0x44 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .debug_frame   0x00000c48       0x38 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .debug_frame   0x00000c80       0x44 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .debug_frame   0x00000cc4       0x34 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .debug_frame   0x00000cf8       0xe8 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .debug_frame   0x00000de0       0x9c ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .debug_frame   0x00000e7c       0xf8 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+
+.debug_str      0x00000000     0x1b71
+ *(.debug_str)
+ .debug_str     0x00000000      0x42c ../Obj/mega644_ssd1306SPI/lcd-routines.o
+                                0x4ad (size before relaxing)
+ .debug_str     0x0000042c       0x8c ../Obj/mega644_ssd1306SPI/DisplayValue.o
+                                0x19d (size before relaxing)
+ .debug_str     0x000004b8      0x157 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+                                0x305 (size before relaxing)
+ .debug_str     0x0000060f       0x28 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+                                 0xef (size before relaxing)
+ .debug_str     0x00000637       0xa3 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+                                0x1f4 (size before relaxing)
+ .debug_str     0x000006da      0xa24 ../Obj/mega644_ssd1306SPI/main.o
+                                0xf20 (size before relaxing)
+ .debug_str     0x000010fe       0x27 ../Obj/mega644_ssd1306SPI/Battery_check.o
+                                0x18b (size before relaxing)
+ .debug_str     0x00001125      0x167 ../Obj/mega644_ssd1306SPI/CheckPins.o
+                                0x320 (size before relaxing)
+ .debug_str     0x0000128c       0x33 ../Obj/mega644_ssd1306SPI/GetResistance.o
+                                0x2a8 (size before relaxing)
+ .debug_str     0x000012bf       0x2f ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+                                 0xf5 (size before relaxing)
+ .debug_str     0x000012ee       0x29 ../Obj/mega644_ssd1306SPI/EntladePins.o
+                                0x124 (size before relaxing)
+ .debug_str     0x00001317       0xc5 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+                                0x335 (size before relaxing)
+ .debug_str     0x000013dc       0x30 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+                                0x1b1 (size before relaxing)
+ .debug_str     0x0000140c       0xf0 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+                                0x455 (size before relaxing)
+ .debug_str     0x000014fc       0x92 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+                                0x27e (size before relaxing)
+ .debug_str     0x0000158e       0x20 ../Obj/mega644_ssd1306SPI/GetVloss.o
+                                0x1aa (size before relaxing)
+ .debug_str     0x000015ae       0x81 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+                                0x258 (size before relaxing)
+ .debug_str     0x0000162f      0x160 ../Obj/mega644_ssd1306SPI/function_menu.o
+                                0x57f (size before relaxing)
+ .debug_str     0x0000178f       0x21 ../Obj/mega644_ssd1306SPI/message_key_released.o
+                                0x117 (size before relaxing)
+ .debug_str     0x000017b0       0x21 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+                                0x20c (size before relaxing)
+ .debug_str     0x000017d1       0x80 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+                                0x1dd (size before relaxing)
+ .debug_str     0x00001851       0x20 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+                                0x1d5 (size before relaxing)
+ .debug_str     0x00001871       0x32 ../Obj/mega644_ssd1306SPI/ShowData.o
+                                0x2aa (size before relaxing)
+ .debug_str     0x000018a3       0x63 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+                                0x1d2 (size before relaxing)
+ .debug_str     0x00001906       0x1b ../Obj/mega644_ssd1306SPI/EE_check_init.o
+                                0x177 (size before relaxing)
+ .debug_str     0x00001921       0x4a ../Obj/mega644_ssd1306SPI/sampling_cap.o
+                                0x273 (size before relaxing)
+ .debug_str     0x0000196b       0xc0 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+                                0x311 (size before relaxing)
+ .debug_str     0x00001a2b      0x146 ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+                                0x395 (size before relaxing)
+
+.debug_loc      0x00000000     0x87b5
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xb0e ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .debug_loc     0x00000b0e      0x586 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .debug_loc     0x00001094      0x15d ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .debug_loc     0x000011f1       0xd0 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .debug_loc     0x000012c1      0x1b1 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .debug_loc     0x00001472      0x799 ../Obj/mega644_ssd1306SPI/main.o
+ .debug_loc     0x00001c0b       0x86 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .debug_loc     0x00001c91     0x1dae ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .debug_loc     0x00003a3f      0x970 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .debug_loc     0x000043af       0x93 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .debug_loc     0x00004442      0x182 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .debug_loc     0x000045c4      0x33e ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .debug_loc     0x00004902       0x72 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .debug_loc     0x00004974      0x2c6 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .debug_loc     0x00004c3a      0x3e9 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .debug_loc     0x00005023      0x23b ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .debug_loc     0x0000525e      0x2ca ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .debug_loc     0x00005528      0xb76 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .debug_loc     0x0000609e       0x5b ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .debug_loc     0x000060f9      0x12c ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .debug_loc     0x00006225      0x3d9 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .debug_loc     0x000065fe       0xdf ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .debug_loc     0x000066dd       0xd9 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .debug_loc     0x000067b6      0x2a6 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .debug_loc     0x00006a5c       0x85 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .debug_loc     0x00006ae1      0x6c2 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .debug_loc     0x000071a3      0x898 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .debug_loc     0x00007a3b      0xd7a ../Obj/mega644_ssd1306SPI/sampling_xtal.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(../Obj/mega644_ssd1306SPI/mega644_ssd1306SPI.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x588
+ .debug_ranges  0x00000000      0x158 ../Obj/mega644_ssd1306SPI/lcd-routines.o
+ .debug_ranges  0x00000158       0x28 ../Obj/mega644_ssd1306SPI/DisplayValue.o
+ .debug_ranges  0x00000180       0x20 ../Obj/mega644_ssd1306SPI/lcd-draw.o
+ .debug_ranges  0x000001a0       0x10 ../Obj/mega644_ssd1306SPI/sleep_5ms.o
+ .debug_ranges  0x000001b0       0x38 ../Obj/mega644_ssd1306SPI/wait_for_key_ms.o
+ .debug_ranges  0x000001e8       0x78 ../Obj/mega644_ssd1306SPI/main.o
+ .debug_ranges  0x00000260       0x10 ../Obj/mega644_ssd1306SPI/Battery_check.o
+ .debug_ranges  0x00000270       0x18 ../Obj/mega644_ssd1306SPI/CheckPins.o
+ .debug_ranges  0x00000288       0x10 ../Obj/mega644_ssd1306SPI/GetResistance.o
+ .debug_ranges  0x00000298       0x10 ../Obj/mega644_ssd1306SPI/ChargePin10ms.o
+ .debug_ranges  0x000002a8       0x10 ../Obj/mega644_ssd1306SPI/EntladePins.o
+ .debug_ranges  0x000002b8       0x28 ../Obj/mega644_ssd1306SPI/ReadCapacity.o
+ .debug_ranges  0x000002e0       0x10 ../Obj/mega644_ssd1306SPI/Calibrate_UR.o
+ .debug_ranges  0x000002f0       0x38 ../Obj/mega644_ssd1306SPI/show_Resis_Cap.o
+ .debug_ranges  0x00000328       0x10 ../Obj/mega644_ssd1306SPI/ReadInductance.o
+ .debug_ranges  0x00000338       0x10 ../Obj/mega644_ssd1306SPI/GetVloss.o
+ .debug_ranges  0x00000348       0x30 ../Obj/mega644_ssd1306SPI/GetFrequency.o
+ .debug_ranges  0x00000378       0x88 ../Obj/mega644_ssd1306SPI/function_menu.o
+ .debug_ranges  0x00000400       0x10 ../Obj/mega644_ssd1306SPI/message_key_released.o
+ .debug_ranges  0x00000410       0x10 ../Obj/mega644_ssd1306SPI/ReadBigCap.o
+ .debug_ranges  0x00000420       0x10 ../Obj/mega644_ssd1306SPI/CheckRotaryEncoder.o
+ .debug_ranges  0x00000430       0x10 ../Obj/mega644_ssd1306SPI/CalibrationCap.o
+ .debug_ranges  0x00000440       0x10 ../Obj/mega644_ssd1306SPI/ShowData.o
+ .debug_ranges  0x00000450       0x10 ../Obj/mega644_ssd1306SPI/CheckUJT.o
+ .debug_ranges  0x00000460       0x10 ../Obj/mega644_ssd1306SPI/EE_check_init.o
+ .debug_ranges  0x00000470       0x38 ../Obj/mega644_ssd1306SPI/sampling_cap.o
+ .debug_ranges  0x000004a8       0x40 ../Obj/mega644_ssd1306SPI/sampling_lc.o
+ .debug_ranges  0x000004e8       0xa0 ../Obj/mega644_ssd1306SPI/sampling_xtal.o

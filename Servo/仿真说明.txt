@@ -1,0 +1,1 @@
+仿真说明，仿真时请调用带"_bootloader"字样的hex文件到Proteus中

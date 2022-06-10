@@ -1,0 +1,9 @@
+avrdude -C"C:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -v -patmega328p -carduino -PCOM43 -b115200 -D -Uflash:w:"C:\Users\Administrator\Desktop\Arduino\ssd1306_128x64_i2c\ssd1306_128x64_i2c.ino.with_bootloader.standard.hex:i"
+
+avrdude -C"C:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -v -patmega328p -carduino -PCOM43 -b115200 -D -Uflash:w:"C:\Users\Administrator\Desktop\Arduino\ssd1306_128x64_i2c\TransistorTester.hex:i"
+
+avrdude -C"C:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -v -patmega328p -carduino -PCOM43 -b115200 -D -Uflash:w:"C:\Users\Administrator\Desktop\Arduino\ssd1306_128x64_i2c\TransistorTester.eep:i"
+
+熔丝数据编辑为低位F7，高位D9，扩展FC
+avrdude -C"C:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -v -patmega328p -carduino -PCOM43 -b115200 -D -U lfuse:w:0xf7:m -U hfuse:w:0xd9:m -U efuse:w:0xfc:m
+

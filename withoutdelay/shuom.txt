@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Arduino
+C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\Tools\Arduino
+
+proteus8.12
+安装包链接：链接：https://pan.baidu.com/s/1glMvqCoyT0iIEkuvZd_9HQ
+提取码：t9dd
